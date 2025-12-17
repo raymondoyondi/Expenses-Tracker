@@ -2,7 +2,7 @@
 
 ## 🌟 Overview
 
-The **Expenses-Tracker** is a simple yet powerful command-line interface (CLI) application built with Python to help users easily track and manage their personal expenses. Designed for efficiency, this tool allows you to log daily expenditures, categorize them, and generate insightful summaries directly from your terminal.
+The **Expenses Tracker** is a simple yet powerful command-line interface (CLI) application built with Python to help users easily track and manage their personal expenses. Designed for efficiency, this tool allows you to log daily expenditures, categorize them, and generate insightful summaries directly from your terminal.
 
 Data is securely saved to a local CSV file, giving you full control and portability over your financial records. Start monitoring your spending habits effectively and gain a clear view of where your money is going.
 
